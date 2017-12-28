@@ -1,0 +1,24 @@
+{
+  "name": "kayvan_portfolio",
+  "version": "1.0.0",
+  "description": "Kayvan's Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayrahmani24/kayvan_Portfolio.git"
+  },
+  "author": "Kayvan Rahmani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayrahmani24/kayvan_Portfolio/issues"
+  },
+  "homepage": "https://github.com/kayrahmani24/kayvan_Portfolio#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
